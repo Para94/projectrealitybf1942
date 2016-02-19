@@ -1,8 +1,8 @@
-game.CustomGameName DRK_42
+game.CustomGameName wwiireality
 game.addModPath Mods/wwiireality/
 game.addModPath Mods/bf1942/
 rem game.customGameFlushArchives 0
-game.setCustomGameVersion Apples 0.1
+game.setCustomGameVersion .1
 game.setCustomGameUrl "http://bluedrake42.com/"
 game.setCustomGameInfo "DRK 42 Realism Mod"
 
