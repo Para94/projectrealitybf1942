@@ -1,0 +1,24 @@
+game.CustomGameName DRK_42
+game.addModPath Mods/wwiireality/
+game.addModPath Mods/bf1942/
+rem game.customGameFlushArchives 0
+game.setCustomGameVersion Apples 0.1
+game.setCustomGameUrl "http://bluedrake42.com/"
+game.setCustomGameInfo "DRK 42 Realism Mod"
+
+
+rem menu.setIntroMoviePath wwiireality Mods/DRK42/movies/intro.bik
+
+Game.setMenuMusicFilename "music/slaughter4.bik"
+Game.setLoadMusicFilename "music/vehicle4.bik"
+Game.setWinMusicFilename "music/vehicle3.bik"
+Game.setLoseMusicFilename "music/menu.bik"
+Game.setCampaignLoseMusicFilename "music/menu.bik"
+Game.setDebriefingMusicFilename "music/vehicle3.bik"
+
+beginrem
+slaughter4 = washingtonpost
+vehicle4 = semperfidelis
+vehicle3 = armysonginstrumental
+menu = taps
+endrem
